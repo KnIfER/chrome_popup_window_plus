@@ -1,7 +1,8 @@
 # Chrome Popup  ++
 [![LICENSE](https://img.shields.io/badge/License-Nothing--3.0--only-blue.svg?style=for-the-badge&logo=github "LICENSE")](https://github.com/Bush2021/chrome_plus/blob/main/LICENSE) [![LAST COMMIT](https://img.shields.io/github/last-commit/KnIfER/chrome_popup_window_plus?color=blue&logo=github&style=for-the-badge "LAST COMMIT")](https://github.com/KnIfER/chrome_popup_window_plus/commits/main)  [![STARS](https://img.shields.io/github/stars/KnIfER/chrome_popup_window_plus?color=brightgreen&logo=github&style=for-the-badge "STARS")](https://github.com/KnIfER/chrome_popup_window_plus/stargazers) ![SIZES](https://img.shields.io/github/languages/code-size/KnIfER/chrome_popup_window_plus?color=brightgreen&logo=github&style=for-the-badge "SIZES")
 
-中文说明: https://github.com/Bush2021/chrome_plus/blob/main/README_CN.md
+中文说明: [Chrome_plus / 如何增大扩展popup的高度？ ](https://github.com/Bush2021/chrome_plus/issues/70)
+
 
 # How & Why
 * Enlarge (overlap taskbar) the height of  extension popup windows by injection.
