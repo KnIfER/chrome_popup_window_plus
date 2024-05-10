@@ -3,8 +3,13 @@
 
 中文说明: https://github.com/Bush2021/chrome_plus/blob/main/README_CN.md
 
-# Feature
-* Enlarge (overlap taskbar) the height of  extension popup windows by injection. 
+# How & Why
+* Enlarge (overlap taskbar) the height of  extension popup windows by injection.
+* This is why, it's all for my new multi-tabbed bookmark manager and viewer:
+
+![image (3)](https://github.com/KnIfER/chrome_popup_window_plus/assets/11593903/731ac6f3-5c0e-4117-94f1-6e7689ef2657)
+
+
 
 
 # Download
